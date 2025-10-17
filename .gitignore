@@ -1,12 +1,11 @@
-# tambahan pribadi
-data/
-datasets/
-raw_data/
-*.h5
-*.ckpt
+echo "sample_data/
 *.csv
 *.xlsx
+*.png
+*.h5
 *.zip
 *.json
-.ipynb_checkpoints/
 __pycache__/
+.config/
+.ipynb_checkpoints/
+" > .gitignore
